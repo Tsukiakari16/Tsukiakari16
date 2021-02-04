@@ -3,7 +3,7 @@
 <li> I am a highschooler </li>
 <li> I live in Indonesia </li>
 <li> I love vocaloid songs </li>
-<li> I eat rice everyday</li>
+<li> Djawa adalah koentji</li>
 
 
 <!--
